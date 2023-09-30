@@ -1,2 +1,2 @@
 # Turing-Machines
-A collection of turing machine simulators, made as .tm files and run using tursi.
+A collection of turing machines, performing various functions, run using tursi.

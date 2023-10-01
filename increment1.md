@@ -1,6 +1,7 @@
 # Increment 1 
 The tape initially contains __wc__, where w is a binary number. Your 
-TM should add 1 to w and write the sum to the right of the c.c is a __char separator__.
+TM should add 1 to w and write the sum to the right of the c.c is a __char separator__. 
+Just open a increment.tm file and copy and paste the following.
 
 ```
 # this is a comment

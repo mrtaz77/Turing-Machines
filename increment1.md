@@ -1,3 +1,8 @@
+# Increment 1 
+The tape initially contains __wc__, where w is a binary number. Your 
+TM should add 1 to w and write the sum to the right of the c.c is a __char separator__.
+
+```
 # this is a comment
 
 # the following 3 lines are commands
@@ -49,3 +54,4 @@ q7 c c R q7
 q8 x 0 L q8
 q8 y 1 L q8
 q8 B B R q9
+`````

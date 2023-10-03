@@ -1,3 +1,9 @@
+# wcw recoginizer
+
+# The tape will initially contain w1cw2, where w1 and w2 are strings of 0 and 1.
+# This tm halts in accepting state Q6 if w1 and w2 are same.
+# Else the tm halts without accepting.
+
 # this is a comment
 
 # the following 3 lines are commands

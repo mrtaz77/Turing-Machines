@@ -1,4 +1,11 @@
-# this is a comment
+# Monus subtraction 
+
+# The tape will initially contain w11w2.
+# w1 and w2 are unary notations of numbers.
+# w1 , w2 is of the form 0 ^ n where n is the number represented by w1 and w2 respectively.
+# For instance if w1 = 4 in decimal , then the tape will contain 0000.
+# 1 is used as a subtractor. 
+# The final tape will only contain the monus subtraction w1 - w2.
 
 # the following 3 lines are commands
 #! start q0

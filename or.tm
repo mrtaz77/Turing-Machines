@@ -1,3 +1,10 @@
+# Or operation 
+
+# The tape will initially contain w1cw2c, where w1 and w2 are binary numbers. 
+# This TM performs or of  w1 and w2 and writes the or operation to the right of the c at the end of input.
+# c is a char separator. 
+# The LSB of w1 , (w2 & w1) will be on the left.
+
 # this is a comment
 
 # the following 3 lines are commands

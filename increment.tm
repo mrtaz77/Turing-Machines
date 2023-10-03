@@ -3,7 +3,7 @@
 # The tape will initially contain wc, where w is a binary number. 
 # This TM adds 1 to w and write the sum to the right of the c.
 # c is a char separator. 
-# The LSB of w and w+1 will also be on the left.
+# The LSB of w and w+1 will be on the left.
 
 # this is a comment
 
